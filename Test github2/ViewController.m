@@ -18,6 +18,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
         NSLog(@"Can't wait for this to upload to GitHub");
+       NSLog(@"Check for this to upload to GitHub");
 }
 
 - (void)didReceiveMemoryWarning {
